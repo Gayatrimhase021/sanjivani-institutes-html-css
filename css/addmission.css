@@ -177,3 +177,7 @@ button {
     cursor: pointer;
     font-weight: bold;
 }
+
+button:hover {
+    background: #00337a;
+}
