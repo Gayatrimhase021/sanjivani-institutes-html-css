@@ -5,7 +5,7 @@
     font-family: Arial, sans-serif;
 }
 
-body {
+ body {
     background-color: #cce1ef;
 }
 
@@ -77,7 +77,7 @@ form button:hover {
     align-items: center;
     padding: 20px;
     background-color: #333;
-    color: white;
+   color: white;
 }
 
 .footer-section-1 {
