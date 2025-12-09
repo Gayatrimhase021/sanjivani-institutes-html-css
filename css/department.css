@@ -188,7 +188,7 @@ nav {
     height: 200px;               
     padding: 1rem;              
     border-radius: 16px;
-    background: linear-gradient(135deg, var(--color-surface), rgba(59,130,246,0.05));
+    background-color: var(--color-surface);
     display: flex;
     flex-direction: column;
     align-items: center;
