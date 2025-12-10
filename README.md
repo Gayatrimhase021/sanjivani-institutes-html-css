@@ -1,9 +1,7 @@
 Sanjivani Institute!!
 ![images](images/image.png)
 ![images](images/college.png)
-<a href="https://github.com/Akshata05Dawange/sanjivani-institutes-html-css/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Akshata05Dawange/sanjivani-institutes-html-css" />
-</a>
+
 
 ## 📌 Features of the Website
 - 'NBA and NAAc Accedited Engineering program
@@ -60,3 +58,6 @@ Images, CSS, and JS files are organized in separate folders:
 This website is created **only for a college project**.  
 It is **not affiliated** with Sanjivani College in any official manner.  
 
+<a href="https://github.com/Akshata05Dawange/sanjivani-institutes-html-css/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Akshata05Dawange/sanjivani-institutes-html-css" />
+</a>

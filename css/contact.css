@@ -1,9 +1,9 @@
-<<<<<<< HEAD
-* /* RESET */
-* {
-=======
+
+
+
+
 * body{
->>>>>>> 357ca08c1de79221d9fb032f210c109036833951
+
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -11,9 +11,8 @@
     background-color: #cce1ef;
 }
 
-<<<<<<< HEAD
+
 /* CONTACT SECTION */
-=======
 .navbar-main-container {
     width: 100%;
     background: #192546;
@@ -99,7 +98,7 @@ nav {
 }
 
 
->>>>>>> 357ca08c1de79221d9fb032f210c109036833951
+
 .contact-container {
     width: 90%;
     max-width: 900px;
@@ -169,16 +168,15 @@ form button:hover {
     align-items: flex-start;
     padding: 30px 20px;
     background-color: #333;
-    color: white;
-<<<<<<< HEAD
-=======
+    color: white; 
+
 
 }
 
 .footer-section-1 {
     display: flex;
     flex-direction: column;
->>>>>>> 357ca08c1de79221d9fb032f210c109036833951
+
     gap: 20px;
     flex-wrap: wrap;
 }
@@ -200,12 +198,12 @@ form button:hover {
 }
 
 .social-icon {
-    height: 38px;
-    width: 38px;
+    height: 20px;
+    width: 20px;
     cursor: pointer;
     background-color: white;
-    border-radius: 50%;
-    padding: 8px;
+    border-radius: 20px;
+    padding: 10px;
 }
 
 .contact-item {
